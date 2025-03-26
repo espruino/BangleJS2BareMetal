@@ -1,0 +1,1 @@
+Download `nRF5 SDK` version 17 from https://www.nordicsemi.com/Products/Development-software/nRF5-SDK into this directory
